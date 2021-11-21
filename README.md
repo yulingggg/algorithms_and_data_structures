@@ -14,7 +14,7 @@
 
 </center>
 
-**Note: Some of the code here is old and was written when I was learning C++. It might be possible that code is not safe or making wrong assumptions. Please use with caution. Pull requests are always welcome.**
+**Note: Some of the code here is old and was written when I was learning C++. It might be possible that the code is not safe or making wrong assumptions. Please use with caution. Pull requests are always welcome.**
 
 ### LinkedList Problems
 | Problem | Solution |
